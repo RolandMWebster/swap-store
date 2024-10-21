@@ -12,8 +12,9 @@ switch between them seamlessly. This package addresses these challenges by provi
 unified ``save()`` and ``load()`` interface that abstracts away the complexities of
 interacting with different storage types. By simplifying this process, it allows
 developers to easily swap storage backends without modifying their codebase, making it
-ideal for environments that require flexible storage management, such as development,
-testing, and production.
+ideal for projects that require flexible storage management.
+
+![bell curve](https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd)
 
 ## Caution
 
