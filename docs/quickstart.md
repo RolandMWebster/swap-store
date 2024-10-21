@@ -84,7 +84,7 @@ you or your team has chosen as part of your infrastructure) in conjunction with 
 
 ## Configuration Driven Usage
 
-One of the more powerful ways to make use of the ``swapstore` package is to use
+One of the more powerful ways to make use of the ``swapstore`` package is to use
 configuration driven file handling, which makes it easy to manage storage location
 details for different environments (e.g. development, production) and to
 switch between them with minimal effort. It might look something like the below, where we
