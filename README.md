@@ -14,7 +14,9 @@ interacting with different storage types. By simplifying this process, it allows
 developers to easily swap storage backends without modifying their codebase, making it
 ideal for projects that require flexible storage management.
 
-![bell curve](https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd" width="500">
+</p>
 
 ## Caution
 
