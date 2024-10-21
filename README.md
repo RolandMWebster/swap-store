@@ -8,11 +8,15 @@ In modern applications, the need to read from and write to different storage
 locations—such as local disk, cloud storage (e.g., AWS S3), or even mock locations for
 testing—can quickly become complex and error-prone. Each storage type often comes with
 its own APIs, libraries, and specific configurations, making it challenging to manage and
-switch between them seamlessly. This package addresses these challenges by providing a
+switch between them. This package addresses these challenges by providing a
 unified ``save()`` and ``load()`` interface that abstracts away the complexities of
 interacting with different storage types. By simplifying this process, it allows
 developers to easily swap storage backends without modifying their codebase, making it
 ideal for projects that require flexible storage management.
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd" width="500">
+</p>
 
 ## Caution
 
@@ -38,12 +42,6 @@ specific to certain storage solutions.
 interaction with a single storage type (e.g., local filesystem only), using this package
 might introduce unnecessary complexity. In such cases, directly using the relevant
 storage API could be simpler and more straightforward.
-
-With that being said...
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd" width="500">
-</p>
 
 ## Installation
 
