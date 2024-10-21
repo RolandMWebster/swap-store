@@ -14,10 +14,6 @@ interacting with different storage types. By simplifying this process, it allows
 developers to easily swap storage backends without modifying their codebase, making it
 ideal for projects that require flexible storage management.
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd" width="500">
-</p>
-
 ## Caution
 
 While this package provides convenience in some use cases, it does come with some
@@ -42,6 +38,12 @@ specific to certain storage solutions.
 interaction with a single storage type (e.g., local filesystem only), using this package
 might introduce unnecessary complexity. In such cases, directly using the relevant
 storage API could be simpler and more straightforward.
+
+With that being said...
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd" width="500">
+</p>
 
 ## Installation
 
