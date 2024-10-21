@@ -15,7 +15,7 @@ developers to easily swap storage backends without modifying their codebase, mak
 ideal for projects that require flexible storage management.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/aef4ae48-877b-4799-a7cf-8896af9ae8cd" width="500">
+<img src="https://github.com/user-attachments/assets/e02951a9-1cf1-4a57-976e-08c152f55d3f" width="500">
 </p>
 
 ## Caution
